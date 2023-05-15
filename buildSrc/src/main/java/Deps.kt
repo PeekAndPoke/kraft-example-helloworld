@@ -13,11 +13,11 @@ object Deps {
     // ///////////////////////////////////////////////////////////////////////////////////////////
 
     // https://search.maven.org/search?q=g:io.peekandpoke.ultra%20AND%20a:commonmp
-    private const val ultra_version = "0.66.0"
+    private const val ultra_version = "0.67.0"
     const val ultra_common_mp = "io.peekandpoke.ultra:commonmp:$ultra_version"
 
     // https://search.maven.org/search?q=g:io.peekandpoke.kraft%20AND%20a:core
-    private const val kraft_version = "0.31.0"
+    private const val kraft_version = "0.32.0"
     const val kraft_core = "io.peekandpoke.kraft:core:$kraft_version"
 
     // // NPM dependencies /////////////////////////////////////////////////////////////////////////
