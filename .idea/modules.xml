@@ -11,9 +11,17 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.iml" filepath="$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.test.iml" filepath="$PROJECT_DIR$/.idea/modules/io.peekandpoke.kraft.examples.helloworld.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.main~1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.buildSrc.test~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.jsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/kraft-example-helloworld.helloworld.jsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/buildSrc/peekandpoke.kraft-example-helloworld.helloworld.buildSrc.test.iml" />
     </modules>
   </component>
 </project>

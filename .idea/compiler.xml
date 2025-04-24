@@ -2,12 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
+      <module name="buildSrc" target="17" />
       <module name="io.peekandpoke.kraft.examples.helloworld" target="17" />
+      <module name="kraft-example-helloworld" target="17" />
+      <module name="kraft-example-helloworld.helloworld" target="17" />
       <module name="kraft-example-helloworld.helloworld.buildSrc" target="17" />
       <module name="kraft-example-helloworld.helloworld.buildSrc.main" target="17" />
       <module name="kraft-example-helloworld.helloworld.buildSrc.main~1" target="17" />
       <module name="kraft-example-helloworld.helloworld.buildSrc.test" target="17" />
       <module name="kraft-example-helloworld.helloworld.buildSrc.test~1" target="17" />
+      <module name="peekandpoke.kraft-example-helloworld.helloworld.buildSrc" target="17" />
+      <module name="peekandpoke.kraft-example-helloworld.helloworld.buildSrc.main" target="17" />
+      <module name="peekandpoke.kraft-example-helloworld.helloworld.buildSrc.main~1" target="17" />
+      <module name="peekandpoke.kraft-example-helloworld.helloworld.buildSrc.test" target="17" />
+      <module name="peekandpoke.kraft-example-helloworld.helloworld.buildSrc.test~1" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
