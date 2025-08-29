@@ -57,15 +57,15 @@
   resolved "https://registry.yarnpkg.com/@js-joda/core/-/core-3.2.0.tgz#3e61e21b7b2b8a6be746df1335cf91d70db2a273"
   integrity sha512-PMqgJ0sw5B7FKb2d5bWYIoxjri+QlW/Pys7+Rw82jSH0QN3rB05jZ/VrrsUdh1w4+i2kw9JOejXGq/KhDOX7Kg==
 
-"@js-joda/core@5.6.4":
-  version "5.6.4"
-  resolved "https://registry.yarnpkg.com/@js-joda/core/-/core-5.6.4.tgz#abafce9b30302639bfe4a71bad5120fe39654f10"
-  integrity sha512-ChdLDTYMEoYoiKZMT90wZMEdGvZ2/QZMnhvjvEqeO5oLoxUfSiLzfe6Lhf3g88+MhZ+utbAu7PAxX1sZkLo5pA==
+"@js-joda/core@5.6.5":
+  version "5.6.5"
+  resolved "https://registry.yarnpkg.com/@js-joda/core/-/core-5.6.5.tgz#c766894b49eb8044480b91625fb7dc370e8182ef"
+  integrity sha512-3zwefSMwHpu8iVUW8YYz227sIv6UFqO31p1Bf1ZH/Vom7CmNyUsXjDBlnNzcuhmOL1XfxZ3nvND42kR23XlbcQ==
 
-"@js-joda/timezone@2.21.2":
-  version "2.21.2"
-  resolved "https://registry.yarnpkg.com/@js-joda/timezone/-/timezone-2.21.2.tgz#787cbb6d4a5fb15f47360dc9fe0105e2e4366c9e"
-  integrity sha512-+eBODVO3a5Dy/vWH2WxshmZuHAh/pnU6vw/8dq9/HODvvsN6FaeW45voP12MTfOWYuwb5dFvPP8Wp91YckaYWw==
+"@js-joda/timezone@2.22.0":
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/@js-joda/timezone/-/timezone-2.22.0.tgz#dc0eea2b33c6bac4404240ce91095573543f5d3e"
+  integrity sha512-9UNXxEztbcofD6XvV7xPrbzB2nE/AWaHr/XfugRZgVqg2vCZOVPnD8QI7GW164EFIWMw0c97Gs6STJ5dh0J99Q==
 
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.5"
