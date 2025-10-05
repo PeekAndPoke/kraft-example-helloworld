@@ -10,11 +10,11 @@ object Deps {
     }
 
     // Kotlin ////////////////////////////////////////////////////////////////////////////////////
-    const val kotlinVersion = "2.1.20"
+    const val kotlinVersion = "2.2.20"
 
     object Ksp {
         // https://github.com/google/ksp/releases
-        const val version = "2.1.10-1.0.31"
+        const val version = "2.2.20-2.0.3"
         const val symbol_processing = "com.google.devtools.ksp:symbol-processing-api:$version"
 
         // https://mvnrepository.com/artifact/com.github.tschuchortdev/kotlin-compile-testing
@@ -42,16 +42,19 @@ object Deps {
     // ///////////////////////////////////////////////////////////////////////////////////////////
 
     object KotlinLibs {
-        private const val ultra_version = "0.92.0"
+        private const val ultra_version = "0.94.0"
 
         object Ultra {
             // https://search.maven.org/search?q=g:io.peekandpoke.ultra%20AND%20a:commonmp
             const val common = "io.peekandpoke.ultra:common:$ultra_version"
-            const val kontainer = "io.peekandpoke.ultra:kontainer:$ultra_version"
+            const val html = "io.peekandpoke.ultra:html:$ultra_version"
             const val logging = "io.peekandpoke.ultra:logging:$ultra_version"
+            const val kontainer = "io.peekandpoke.ultra:kontainer:$ultra_version"
             const val meta = "io.peekandpoke.ultra:meta:$ultra_version"
             const val security = "io.peekandpoke.ultra:security:$ultra_version"
+            const val semanticui = "io.peekandpoke.ultra:semanticui:$ultra_version"
             const val slumber = "io.peekandpoke.ultra:slumber:$ultra_version"
+            const val streams = "io.peekandpoke.ultra:streams:$ultra_version"
             const val vault = "io.peekandpoke.ultra:vault:$ultra_version"
         }
 

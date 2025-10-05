@@ -2,20 +2,14 @@ package io.peekandpoke.kraft.examples.helloworld
 
 import de.peekandpoke.kraft.kraftApp
 import de.peekandpoke.kraft.vdom.preact.PreactVDomEngine
-import kotlinx.browser.document
 import kotlinx.html.h1
-import org.w3c.dom.HTMLElement
 
 val kraft = kraftApp {
 
 }
 
 fun main() {
-    // Get the DOM-Element into which the app should be mounted
-    val mountPoint = document.getElementById("spa") as HTMLElement
-
-    // Initialize the VDOM-engine (in this case Preact) and render some content
-    PreactVDomEngine(mountPoint) {
+    kraft.mount(selector = "#spa", engine = PreactVDomEngine()) {
         h1 { +"Hello World!" }
     }
 }
