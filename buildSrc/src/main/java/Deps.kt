@@ -42,10 +42,10 @@ object Deps {
     // ///////////////////////////////////////////////////////////////////////////////////////////
 
     object KotlinLibs {
-        private const val ultra_version = "0.94.0"
+        // https://central.sonatype.com/artifact/io.peekandpoke.ultra/common
+        private const val ultra_version = "0.94.1"
 
         object Ultra {
-            // https://search.maven.org/search?q=g:io.peekandpoke.ultra%20AND%20a:commonmp
             const val common = "io.peekandpoke.ultra:common:$ultra_version"
             const val html = "io.peekandpoke.ultra:html:$ultra_version"
             const val logging = "io.peekandpoke.ultra:logging:$ultra_version"
@@ -59,9 +59,9 @@ object Deps {
         }
 
         object Kraft {
-            // https://central.sonatype.com/search?q=g%3Aio.peekandpoke.kraft++a%3Acore&smo=true
             const val core = "io.peekandpoke.kraft:core:$ultra_version"
             const val semanticui = "io.peekandpoke.kraft:semanticui:$ultra_version"
+            const val testing = "io.peekandpoke.kraft:testing:$ultra_version"
 
             const val addons_chartjs = "io.peekandpoke.kraft:addons-chartjs:$ultra_version"
             const val addons_konva = "io.peekandpoke.kraft:addons-konva:$ultra_version"
@@ -109,7 +109,7 @@ object Deps {
         const val uuid = "com.benasher44:uuid:$uuid_version"
 
         // https://mvnrepository.com/artifact/io.github.g0dkar/qrcode-kotlin
-        private const val qrcode_version = "4.3.0"
+        private const val qrcode_version = "4.5.0"
         const val qrcode = "io.github.g0dkar:qrcode-kotlin:$qrcode_version"
 
         // https://mvnrepository.com/artifact/io.github.serpro69/kotlin-faker
@@ -134,12 +134,12 @@ object Deps {
         }
 
         // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
-        const val logback_version = "1.4.7"
+        const val logback_version = "1.5.19"
         const val logback_classic = "ch.qos.logback:logback-classic:$logback_version"
 
         // https://mvnrepository.com/artifact/io.kotest/kotest-common
-        const val kotest_plugin_version = "5.6.2"
-        const val kotest_version = "5.6.2"
+        const val kotest_plugin_version = "6.0.3"
+        const val kotest_version = "6.0.3"
 
         const val kotest_assertions_core = "io.kotest:kotest-assertions-core:$kotest_version"
         const val kotest_framework_api = "io.kotest:kotest-framework-api:$kotest_version"
